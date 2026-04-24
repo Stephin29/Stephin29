@@ -7,10 +7,10 @@ I'm a Young Developer and Student focused on building functional, visually-attra
 - **3D AI Integration**: Experimenting with Blender Python scripting and motion diffusion models.
 
 ### 🔨 What i have already made:
-- **RainZ OS**: My own custom linux distribution using arch linux as base operating systen
-- **Xyphrox AI**: Made my custom AI chatbot using ollama as base, with detailed custom charecter information
-- **Zylin**: Custom anime male character made in blender
-- **Basic Render Engine**: Made custom 3D Visualizer without using only the knowledge I know (No youtube tutorial)
+- **RainZ OS**: Built my own custom linux distribution using arch linux as the base operating system
+- **Xyphrox AI**: Made my custom AI chatbot using ollama as base system, with detailed custom charecter information
+- **Zylin**: Custom anime male character made entirely in blender
+- **Basic Render Engine**: Made custom 3D Visualizer in Scratch without using only the knowledge I know (No youtube tutorial)
 - **AnimeNewsNetwork Scrapper**: Made a custom scrapper in python to fetch anime news from AnimeNewsNetwork's website using BeautifulSoup
 - **Custom HTML Mail Sender**: Made a custom mail sender using python and html
 - **AR File Explorer**: Minimalist System File Explorer for no distractions and heavy ram usage
