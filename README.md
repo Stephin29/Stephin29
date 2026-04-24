@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Stephin 👋
 
-<!--
-**Stephin29/Stephin29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Young Developer and Student focused on building functional, visually-attractive applications. I spend most of my time bridging the gap between backend logic and interactive frontends.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on
+- **AniRain**: A cross-platform anime streaming desktop application built with Flask and Electron.
+- **3D AI Integration**: Experimenting with Blender Python scripting and motion diffusion models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What i have already made:
+- **RainZ OS**: My own custom linux distribution using arch linux as base operating systen
+- **Xyphrox AI**: Made my custom AI chatbot using ollama as base, with detailed custom charecter information
+- **Zylin**: Custom anime male character made in blender
+- **Basic Render Engine**: Made custom 3D Visualizer without using only the knowledge I know (No youtube tutorial)
+- **AnimeNewsNetwork Scrapper**: Made a custom scrapper in python to fetch anime news from AnimeNewsNetwork's website using BeautifulSoup
+- **Custom HTML Mail Sender**: Made a custom mail sender using python and html
+
+### 🛠 Tech Stack
+- **Languages**: Python, JavaScript, Kotlin, SQL
+- **Frameworks/Libraries**: Flask, Electron, Node.js, GraphQL
+- **Tools**: Blender (Geometry Nodes & Scripting), Git, Nuitka, Inno Setup, NPM, Android Studio, VirtualBox, Capcut
+- **Environment**: Visual Studio CODE, Visual Studio, Windows, Mac and Linux (Mint)
+
+<!-- ### 📊 My Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 -->
+### 📫 How to reach me
+- **Project Site**: [Your GitHub Pages Link Here]
+- **Discord/Socials**: [Your Handle]
