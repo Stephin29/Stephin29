@@ -14,7 +14,7 @@ I'm a Young Developer and Student focused on building functional, visually-attra
 - **AnimeNewsNetwork Scrapper**: Made a custom scrapper in python to fetch anime news from AnimeNewsNetwork's website using BeautifulSoup
 - **Custom HTML Mail Sender**: Made a custom mail sender using python and html
 - **AR File Explorer**: Minimalist System File Explorer for no distractions and heavy ram usage
-- **AI Parkonson Disease Finder**: Built a full stack app with the aim to find parkinson disease using just voice with dedication of my fellow friend [Arya Khana](https://bigboi-alt.github.io/My_portfolio/)
+- **AI Parkonson Disease Finder**: Built a full stack app with the aim to find parkinson disease using just voice with dedication of my fellow friend [Arya Khana](https://bigboi-alt.github.io/My_portfolio/) (Do checkout his profile!)
 
 ### 🛠 Tech Stack
 - **Languages**: Python, JavaScript, Kotlin, SQL, C, C#
